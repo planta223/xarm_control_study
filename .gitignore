@@ -1,0 +1,14 @@
+build/
+install/
+log/
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+*.bag
+*.db3
+*.log
+.DS_Store
+Thumbs.db
+# Downloaded, reproducible dependencies (no nested Git repository).
+vendor/

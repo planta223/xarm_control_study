@@ -1,0 +1,38 @@
+[
+  {
+    "package": "ros-humble-gazebo-msgs",
+    "version": "3.9.0-1jammy.20260907.213014",
+    "url": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-gazebo-msgs/ros-humble-gazebo-msgs_3.9.0-1jammy.20260907.213014_amd64.deb",
+    "sha256": "db97fa48c2f0825de7596a49df2d90a746822443cc9509143c594b6cc97e046b"
+  },
+  {
+    "package": "ros-humble-gazebo-ros",
+    "version": "3.9.0-1jammy.20260907.222900",
+    "url": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-gazebo-ros/ros-humble-gazebo-ros_3.9.0-1jammy.20260907.222900_amd64.deb",
+    "sha256": "e509b9293a3618e70b1cfb108b76990d42558592f0ae15f174e3fb6ee4c40017"
+  },
+  {
+    "package": "ros-humble-gazebo-ros2-control",
+    "version": "0.4.10-1jammy.20261005.224036",
+    "url": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-gazebo-ros2-control/ros-humble-gazebo-ros2-control_0.4.10-1jammy.20261005.224036_amd64.deb",
+    "sha256": "b0fd96cf4b22e35182ef695b57ccf52dc4c3c2a616437beb4b0f2db4fc39bedf"
+  },
+  {
+    "package": "ros-humble-joint-trajectory-controller",
+    "version": "2.54.1-1jammy.20261005.215624",
+    "url": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-joint-trajectory-controller/ros-humble-joint-trajectory-controller_2.54.1-1jammy.20261005.215624_amd64.deb",
+    "sha256": "0f421618a7bfbb8efb1a82c3552352e4c2d282da2000a9a13ac3ed7984379f7c"
+  },
+  {
+    "package": "ros-humble-launch-param-builder",
+    "version": "0.1.1-1jammy.20260907.220739",
+    "url": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-launch-param-builder/ros-humble-launch-param-builder_0.1.1-1jammy.20260907.220739_amd64.deb",
+    "sha256": "776d29b4c47d04b7a133e612ab904a184a0a57205dc5d8860ef6d45e4cab0123"
+  },
+  {
+    "package": "ros-humble-ros2controlcli",
+    "version": "2.54.3-1jammy.20261005.215818",
+    "url": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-ros2controlcli/ros-humble-ros2controlcli_2.54.3-1jammy.20261005.215818_amd64.deb",
+    "sha256": "6022d15d32db912ef744aca4f6d374612955beb561cf995056fe7c8d57fa5985"
+  }
+]
